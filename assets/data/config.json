@@ -1,12 +1,12 @@
 {
     "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "domain": "fensterversum.de",
+    "hostname": "https://www.fensterversum.de/",
+    "email": "fensterversum.desurrealnetworks.io",
+    "organization": "fensterversum.de",
+    "logoText": "Fensterversum.de",
+    "title": "Alles rund ums Fenster",
+    "subline": "Der Online Shop f\u00fcr Alles rund ums Fenster",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "3606688",
+        "2426724",
+        "6289011",
+        "4510640",
+        "4510608",
+        "9354150"
+    ],
+    "winnerProducts": [
+        "1407501",
+        "9354176",
+        "2502144"
+    ],
+    "featuredCategories": [
+        "Fenstervorh\u00e4nge",
+        "Insektenschutz",
+        "Insektenschutzzubeh\u00f6r",
+        "Fenstervorh\u00e4nge",
+        "Fenstervorh\u00e4nge",
+        "Insektenschutzrahmen"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Alles rund ums Fenster",
-        "featureText": "Your featured text goes here",
+        "featureText": "Alles rund ums Fenster ist ein Fachgesch\u00e4ft f\u00fcr Fenster und T\u00fcren in Berlin. Wir bieten unseren Kunden eine gro\u00dfe Auswahl an Fenstern und T\u00fcren in verschiedenen Stilen und Ausf\u00fchrungen. Unsere Experten beraten Sie gerne bei der Auswahl der richtigen Fenster und T\u00fcren f\u00fcr Ihr Zuhause.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Alles rund ums Fenster - Dein Fenster-Shop",
+            "metaDescription": "Alles rund ums Fenster - Wir bieten Ihnen eine gro\u00dfe Auswahl an Fenstern in unterschiedlichen Ausf\u00fchrungen.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Alles rund ums Fenster",
+                    "text": "Alles rund ums Fenster\n\nDas Fenster ist eines der wichtigsten Elemente eines Geb\u00e4udes. Es l\u00e4sst Licht und Luft herein und sch\u00fctzt uns vor Wind und Wetter. Fenster gibt es in den unterschiedlichsten Ausf\u00fchrungen und Gr\u00f6\u00dfen. Sie k\u00f6nnen aus Holz, Kunststoff oder Metall sein und mit einfachen oder aufw\u00e4ndigen Verzierungen versehen werden.\n\nDie ersten Fenster wurden vor etwa 5000 Jahren in \u00c4gypten und Mesopotamien gebaut. Damals waren sie noch sehr einfach gestaltet und bestanden meist nur aus einem Loch in der Wand, das mit einem Tierfell oder einer \u00d6lhaut abgedeckt wurde. Im Laufe der Zeit wurden die Fenster immer weiterentwickelt und verbessert. So kamen beispielsweise im Mittelalter Fenster mit Glas hinzu, das zun\u00e4chst noch sehr dick und milchig war.\n\nHeutzutage gibt es Fenster in den unterschiedlichsten Ausf\u00fchrungen. Sie k\u00f6nnen beispielsweise als Dreh-, Kipp- oder Schiebefenster ausgef\u00fchrt sein. Auch die Gr\u00f6\u00dfe der Fenster ist mittlerweile sehr variabel. So gibt es beispielsweise Fenster, die nur ein paar Zentimeter breit sind, aber auch welche, die fast die gesamte Wand eines Raumes einnehmen.\n\nFenster sind nicht nur in Wohn- und B\u00fcrogeb\u00e4uden zu finden, sondern auch in vielen anderen Bauwerken, wie zum Beispiel in Krankenh\u00e4usern, Schulen oder Hotels. Auch Autos und Flugzeuge haben Fenster, die den Insassen einen"
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Fenster-Shop: Alles rund ums Fenster",
+            "metaDescription": "Alles rund ums Fenster - der Shop f\u00fcr Fenster, T\u00fcren und Zubeh\u00f6r. Hier finden Sie alles, was Sie f\u00fcr Ihr Zuhause oder Ihr B\u00fcro ben\u00f6tigen.",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Alles rund ums Fenster - der Fensterhersteller",
+            "metaDescription": "Alles rund ums Fenster - der f\u00fchrende Fensterhersteller in Deutschland. Wir bieten hochwertige Fenster und T\u00fcren f\u00fcr jeden Bedarf.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Alles rund ums Fenster - $PRODUKT",
+        "defaultMetaDescription": "$PRODUKT, $HERSTELLER und $KATEGORIE - alles rund ums Fenster. Jetzt online bestellen!",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Alles rund ums Fenster - $KATEGORIE",
+        "defaultMetaDescription": "Alles rund ums Fenster: Tipps und Tricks f\u00fcr die richtige Fensterpflege. $KATEGORIE",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "Alles rund ums Fenster: $HERSTELLER ist Ihr kompetenter Ansprechpartner f\u00fcr Fenster, T\u00fcren und Sonnenschutz. Wir beraten Sie gerne!",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,25 +132,25 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Alles rund ums Fenster",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Alles rund ums Fenster Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Alles rund ums Fenster Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
     ]
