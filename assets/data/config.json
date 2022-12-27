@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "fensterversum.de",
     "hostname": "https://www.fensterversum.de/",
     "email": "fensterversum.desurrealnetworks.io",
     "organization": "fensterversum.de",
     "logoText": "Fensterversum.de",
-    "title": "Alles rund ums Fenster",
-    "subline": "Der Online Shop für Alles rund ums Fenster",
+    "title": "Zubehör für Fenster und Türen",
+    "subline": "Fensterzubehör - Alles, was Sie für Fenster und Türen benötigen",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,35 +46,32 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Alles rund ums Fenster",
-        "featureText": "Alles rund ums Fenster ist ein Fachgeschäft für Fenster und Türen in Berlin. Wir bieten unseren Kunden eine große Auswahl an Fenstern und Türen in verschiedenen Stilen und Ausführungen. Unsere Experten beraten Sie gerne bei der Auswahl der richtigen Fenster und Türen für Ihr Zuhause.",
+        "featureText": "Alles rund ums Fenster ist ein Online Shop für Fenster und Türen. Wir bieten unseren Kunden eine große Auswahl an Fenstern und Türen in verschiedenen Stilen und Ausführungen. Unsere Experten beraten Sie gerne bei der Auswahl der richtigen Fenster und Türen für Ihr Zuhause. In unserem Shop listen wir ausschließlich Fenster und Türen von Markenherstellern.",
         "index": {
-            "title": "Alles rund ums Fenster - Dein Fenster-Shop",
-            "metaDescription": "Alles rund ums Fenster - Wir bieten Ihnen eine große Auswahl an Fenstern in unterschiedlichen Ausführungen.",
+            "title": "Zubehör für Fenster und Türen - Shop",
+            "metaDescription": "Wir haben die beste Auswahl an Zubehör für Fenstern und Türen, die es heute auf dem Markt gibt. Schauen Sie sich hier unsere breite Produktpalette an!",
             "robots": "index, follow",
-            "seotext": {
-                "published": false,
-                "content": [
-                    {
-                        "title": "Alles rund ums Fenster",
-                        "text": "Alles rund ums Fenster\n\nDas Fenster ist eines der wichtigsten Elemente eines Gebäudes. Es lässt Licht und Luft herein und schützt uns vor Wind und Wetter. Fenster gibt es in den unterschiedlichsten Ausführungen und Größen. Sie können aus Holz, Kunststoff oder Metall sein und mit einfachen oder aufwändigen Verzierungen versehen werden.\n\nDie ersten Fenster wurden vor etwa 5000 Jahren in Ägypten und Mesopotamien gebaut. Damals waren sie noch sehr einfach gestaltet und bestanden meist nur aus einem Loch in der Wand, das mit einem Tierfell oder einer Ölhaut abgedeckt wurde. Im Laufe der Zeit wurden die Fenster immer weiterentwickelt und verbessert. So kamen beispielsweise im Mittelalter Fenster mit Glas hinzu, das zunächst noch sehr dick und milchig war.\n\nHeutzutage gibt es Fenster in den unterschiedlichsten Ausführungen. Sie können beispielsweise als Dreh-, Kipp- oder Schiebefenster ausgeführt sein. Auch die Größe der Fenster ist mittlerweile sehr variabel. So gibt es beispielsweise Fenster, die nur ein paar Zentimeter breit sind, aber auch welche, die fast die gesamte Wand eines Raumes einnehmen.\n\nFenster sind nicht nur in Wohn- und Bürogebäuden zu finden, sondern auch in vielen anderen Bauwerken, wie zum Beispiel in Krankenhäusern, Schulen oder Hotels. Auch Autos und Flugzeuge haben Fenster, die den Insassen einen"
-                    }
-                ]
-            }
+            "texts": [
+                {
+                    "title": "Alles rund ums Fenster",
+                    "text": "Alles rund ums Fenster\n\nDas Fenster ist eines der wichtigsten Elemente eines Gebäudes. Es lässt Licht und Luft herein und schützt uns vor Wind und Wetter. Fenster gibt es in den unterschiedlichsten Ausführungen und Größen. Sie können aus Holz, Kunststoff oder Metall sein und mit einfachen oder aufwändigen Verzierungen versehen werden.\n\nDie ersten Fenster wurden vor etwa 5000 Jahren in Ägypten und Mesopotamien gebaut. Damals waren sie noch sehr einfach gestaltet und bestanden meist nur aus einem Loch in der Wand, das mit einem Tierfell oder einer Ölhaut abgedeckt wurde. Im Laufe der Zeit wurden die Fenster immer weiterentwickelt und verbessert. So kamen beispielsweise im Mittelalter Fenster mit Glas hinzu, das zunächst noch sehr dick und milchig war.\n\nHeutzutage gibt es Fenster in den unterschiedlichsten Ausführungen. Sie können beispielsweise als Dreh-, Kipp- oder Schiebefenster ausgeführt sein. Auch die Größe der Fenster ist mittlerweile sehr variabel. So gibt es beispielsweise Fenster, die nur ein paar Zentimeter breit sind, aber auch welche, die fast die gesamte Wand eines Raumes einnehmen.\n\nFenster sind nicht nur in Wohn- und Bürogebäuden zu finden, sondern auch in vielen anderen Bauwerken, wie zum Beispiel in Krankenhäusern, Schulen oder Hotels. Auch Autos und Flugzeuge haben Fenster, die den Insassen einen"
+                }
+            ]
         },
         "shop": {
-            "title": "Fenster-Shop: Alles rund ums Fenster",
-            "metaDescription": "Alles rund ums Fenster - der Shop für Fenster, Türen und Zubehör. Hier finden Sie alles, was Sie für Ihr Zuhause oder Ihr Büro benötigen.",
+            "title": "Fenster-Shop: Alles rund ums Fenster und Zubehör",
+            "metaDescription": "Wir bieten qualitativ hochwertige Fenster-Produkte zu erschwinglichen Preisen. Schau jetzt in unserem Shop vorbei und sicher dir die günstigsten Preise.",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Alles rund ums Fenster - der Fensterhersteller",
-            "metaDescription": "Alles rund ums Fenster - der führende Fensterhersteller in Deutschland. Wir bieten hochwertige Fenster und Türen für jeden Bedarf.",
+            "title": "Liste aller Fenster-Hersteller und deren Produkte",
+            "metaDescription": "Sind Sie auf der Suche nach dem richtigen Fenster für Ihr Zuhause? Hier finden Sie eine Liste aller Hersteller und Produkten. Best-Preis-Garantie inklusive.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "Alles rund ums Fenster - $PRODUKT",
-        "defaultMetaDescription": "$PRODUKT, $HERSTELLER und $KATEGORIE - alles rund ums Fenster. Jetzt online bestellen!",
+        "defaultTitle": "$PRODUKT kaufen",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER günstig online kaufen - und viele weitere Produkte aus der Kategorie $KATEGORIE. Und wir haben die besten Preise im Netz.",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +86,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Alles rund ums Fenster - $KATEGORIE",
-        "defaultMetaDescription": "Alles rund ums Fenster: Tipps und Tricks für die richtige Fensterpflege. $KATEGORIE",
+        "defaultTitle": "$KATEGORIE | Online Shop",
+        "defaultMetaDescription": "Suche dir jetzt die besten Produkte aus der $KATEGORIE raus und genieße eine schnelle Lieferung. Ebenfalls haben wir die besten Preise im Netz.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +113,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "Alles rund ums Fenster: $HERSTELLER ist Ihr kompetenter Ansprechpartner für Fenster, Türen und Sonnenschutz. Wir beraten Sie gerne!",
+        "defaultTitle": "$HERSTELLER | Produkte günstig online kaufen",
+        "defaultMetaDescription": "Alles rund ums Fenster: $HERSTELLER ist Ihr qualitativer Hersteller für Fenster, Türen und Sonnenschutz. Finden Sie das richtige Produkt zum günstigsten Preis.",
         "defaultRobots": "index, follow",
         "brands": [
             {
