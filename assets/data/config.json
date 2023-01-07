@@ -51,12 +51,17 @@
             "title": "Zubehör für Fenster und Türen - Shop",
             "metaDescription": "Wir haben die beste Auswahl an Zubehör für Fenstern und Türen, die es heute auf dem Markt gibt. Schauen Sie sich hier unsere breite Produktpalette an!",
             "robots": "index, follow",
-            "texts": [
+            "seotext": 
                 {
-                    "title": "Alles rund ums Fenster",
-                    "text": "Alles rund ums Fenster\n\nDas Fenster ist eines der wichtigsten Elemente eines Gebäudes. Es lässt Licht und Luft herein und schützt uns vor Wind und Wetter. Fenster gibt es in den unterschiedlichsten Ausführungen und Größen. Sie können aus Holz, Kunststoff oder Metall sein und mit einfachen oder aufwändigen Verzierungen versehen werden.\n\nDie ersten Fenster wurden vor etwa 5000 Jahren in Ägypten und Mesopotamien gebaut. Damals waren sie noch sehr einfach gestaltet und bestanden meist nur aus einem Loch in der Wand, das mit einem Tierfell oder einer Ölhaut abgedeckt wurde. Im Laufe der Zeit wurden die Fenster immer weiterentwickelt und verbessert. So kamen beispielsweise im Mittelalter Fenster mit Glas hinzu, das zunächst noch sehr dick und milchig war.\n\nHeutzutage gibt es Fenster in den unterschiedlichsten Ausführungen. Sie können beispielsweise als Dreh-, Kipp- oder Schiebefenster ausgeführt sein. Auch die Größe der Fenster ist mittlerweile sehr variabel. So gibt es beispielsweise Fenster, die nur ein paar Zentimeter breit sind, aber auch welche, die fast die gesamte Wand eines Raumes einnehmen.\n\nFenster sind nicht nur in Wohn- und Bürogebäuden zu finden, sondern auch in vielen anderen Bauwerken, wie zum Beispiel in Krankenhäusern, Schulen oder Hotels. Auch Autos und Flugzeuge haben Fenster, die den Insassen einen"
+                    "published": false,
+                    "content": [
+                        {
+                            "title": "Alles rund ums Fenster",
+                            "text": "Alles rund ums Fenster - Das Fenster ist eines der wichtigsten Elemente eines Gebäudes. Es lässt Licht und Luft herein und schützt uns vor Wind und Wetter. Fenster gibt es in den unterschiedlichsten Ausführungen und Größen. Sie können aus Holz, Kunststoff oder Metall sein und mit einfachen oder aufwändigen Verzierungen versehen werden. Die ersten Fenster wurden vor etwa 5000 Jahren in Ägypten und Mesopotamien gebaut. Damals waren sie noch sehr einfach gestaltet und bestanden meist nur aus einem Loch in der Wand, das mit einem Tierfell oder einer Ölhaut abgedeckt wurde. Im Laufe der Zeit wurden die Fenster immer weiterentwickelt und verbessert. So kamen beispielsweise im Mittelalter Fenster mit Glas hinzu, das zunächst noch sehr dick und milchig war. Heutzutage gibt es Fenster in den unterschiedlichsten Ausführungen. Sie können beispielsweise als Dreh-, Kipp- oder Schiebefenster ausgeführt sein. Auch die Größe der Fenster ist mittlerweile sehr variabel. So gibt es beispielsweise Fenster, die nur ein paar Zentimeter breit sind, aber auch welche, die fast die gesamte Wand eines Raumes einnehmen. Fenster sind nicht nur in Wohn- und Bürogebäuden zu finden, sondern auch in vielen anderen Bauwerken, wie zum Beispiel in Krankenhäusern, Schulen oder Hotels. Auch Autos und Flugzeuge haben Fenster, die den Insassen einen"
+                        }
+                    ]
                 }
-            ]
+            
         },
         "shop": {
             "title": "Fenster-Shop: Alles rund ums Fenster und Zubehör",
