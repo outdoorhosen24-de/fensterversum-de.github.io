@@ -51,17 +51,75 @@
             "title": "Zubehör für Fenster und Türen - Shop",
             "metaDescription": "Wir haben die beste Auswahl an Zubehör für Fenstern und Türen, die es heute auf dem Markt gibt. Schauen Sie sich hier unsere breite Produktpalette an!",
             "robots": "index, follow",
-            "seotext": 
-                {
-                    "published": false,
-                    "content": [
-                        {
-                            "title": "Alles rund ums Fenster",
-                            "text": "Alles rund ums Fenster - Das Fenster ist eines der wichtigsten Elemente eines Gebäudes. Es lässt Licht und Luft herein und schützt uns vor Wind und Wetter. Fenster gibt es in den unterschiedlichsten Ausführungen und Größen. Sie können aus Holz, Kunststoff oder Metall sein und mit einfachen oder aufwändigen Verzierungen versehen werden. Die ersten Fenster wurden vor etwa 5000 Jahren in Ägypten und Mesopotamien gebaut. Damals waren sie noch sehr einfach gestaltet und bestanden meist nur aus einem Loch in der Wand, das mit einem Tierfell oder einer Ölhaut abgedeckt wurde. Im Laufe der Zeit wurden die Fenster immer weiterentwickelt und verbessert. So kamen beispielsweise im Mittelalter Fenster mit Glas hinzu, das zunächst noch sehr dick und milchig war. Heutzutage gibt es Fenster in den unterschiedlichsten Ausführungen. Sie können beispielsweise als Dreh-, Kipp- oder Schiebefenster ausgeführt sein. Auch die Größe der Fenster ist mittlerweile sehr variabel. So gibt es beispielsweise Fenster, die nur ein paar Zentimeter breit sind, aber auch welche, die fast die gesamte Wand eines Raumes einnehmen. Fenster sind nicht nur in Wohn- und Bürogebäuden zu finden, sondern auch in vielen anderen Bauwerken, wie zum Beispiel in Krankenhäusern, Schulen oder Hotels. Auch Autos und Flugzeuge haben Fenster, die den Insassen einen"
-                        }
-                    ]
-                }
-            
+            "seotext": {
+                "published": true,
+                "content": [
+                    {
+                        "title": "Willkommen bei Fensterversum - Ihrem Online-Shop für alles rund ums Fenster",
+                        "text": "Herzlich willkommen bei Fensterversum, Ihrem Online-Shop für alles rund ums Fenster. Bei uns finden Sie eine große Auswahl an Produkten für den Insektenschutz, Fliegengittertüren, Plissees, Stil- und Seilspanngarnituren, Lamellenvorhänge, Rollos und Raffrollos, Jalousien, Gardinenschienen, Fenstervorhänge, Vitragestangen, Insektenschutzzubehör, Türdichtungen und Fensterdichtungen sowie Fliegengitterfenster und Insektenschutznetze.Unser Ziel ist es, Ihnen ein besseres und angenehmeres Leben in Ihren eigenen vier Wänden zu ermöglichen. Deshalb bieten wir Ihnen eine umfassende Auswahl an hochwertigen Produkten, die Ihnen dabei helfen, Insekten und unerwünschte Gäste fernzuhalten und gleichzeitig Licht und Luft in Ihr Zuhause zu lassen.Wir bieten Ihnen eine einfache und bequeme Möglichkeit, alle Ihre Fensterbedürfnisse online zu erfüllen. Durch unsere benutzerfreundliche Website können Sie ganz einfach Ihre gewünschten Produkte auswählen und bestellen. Wir liefern Ihnen die Produkte direkt nach Hause und garantieren Ihnen eine schnelle und zuverlässige Lieferung.Unser Team steht Ihnen jederzeit zur Verfügung, um Ihnen bei Fragen oder Anliegen zu helfen. Wir legen großen Wert auf eine hohe Kundenzufriedenheit und tun alles, um Ihnen ein angenehmes Einkaufserlebnis zu bieten.Wir freuen uns darauf, Ihnen bei allen Ihren Fensterbedürfnissen behilflich zu sein. Stöbern Sie jetzt in unserem Online-Shop und entdecken Sie die vielfältigen Möglichkeiten für Ihr Zuhause. "
+                    },
+                    {
+                        "title": "Insektenschutz",
+                        "text": "Mit unseren hochwertigen <a href=\"/kategorie/insektenschutz/\" title=\"Insektenschutz\">Insektenschutz</a>-Produkten können Sie Ihr Zuhause vor lästigen Insekten schützen. Ob Sie sich für einen Insektenschutz für Ihre Tür oder Fenster entscheiden, Sie können sicher sein, dass Sie eine lange Lebensdauer und eine einfache Handhabung erwarten können. Unsere Insektenschutz-Produkte sind in verschiedenen Größen und Farben erhältlich, um jeden Bedarf und jeden Geschmack zu treffen."
+                    },
+                    {
+                        "title": "Fliegengittertüren",
+                        "text": "Schützen Sie Ihr Zuhause vor lästigen Fliegen und Insekten mit unseren <a href=\"/kategorie/fliegengittertueren/\" title=\"Fliegengittertüren\">Fliegengittertüren</a>. Unsere Türen sind in verschiedenen Größen und Farben erhältlich und bieten eine einfache Handhabung. Sie können das Türgitter einfach öffnen und schließen, wenn Sie es benötigen, und es wird dennoch eine effektive Barriere gegen Fliegen und Insekten bieten. Kaufen Sie jetzt Ihre Fliegengittertür bei Fensterversum.de."
+                    },
+                    {
+                        "title": "Plissees",
+                        "text": "Verleihen Sie Ihren Räumen mit unseren hochwertigen <a href=\"/kategorie/plissees/\" title=\"Plissees\">Plissees</a> eine besondere Note. Unsere Plissees sind in verschiedenen Größen, Farben und Designs erhältlich und können einfach montiert werden. Mit unseren Plissees können Sie Licht und Schatten steuern und zugleich Ihre Privatsphäre schützen. Entdecken Sie jetzt unser vielfältiges Angebot an Plissees bei Fensterversum.de."
+                    },
+                    {
+                        "title": "Insektenschutzrahmen",
+                        "text": "Schützen Sie sich vor lästigen Insekten mit unseren hochwertigen <a href=\"/kategorie/insektenschutzrahmen/\" title=\"Insektenschutzrahmen\">Insektenschutzrahmen</a>. Unsere Rahmen sind in verschiedenen Größen und Farben erhältlich und bieten eine einfache Handhabung. Sie können den Rahmen einfach an Ihr Fenster anbringen und haben sofort einen effektiven Schutz vor Insekten. Entdecken Sie jetzt unser vielfältiges Angebot an Insektenschutzrahmen bei Fensterversum.de."
+                    },
+                    {
+                        "title": "Stil- & Seilspanngarnituren",
+                        "text": "Verleihen Sie Ihren Räumen mit unseren hochwertigen <a href=\"/kategorie/stil--&-seilspanngarnituren/\" title=\"Stil- & Seilspanngarnituren\">Stil- & Seilspanngarnituren</a> eine besondere Note. Unsere Garnituren sind in verschiedenen Designs und Farben erhältlich und können einfach montiert werden. Mit unseren Garnituren können Sie Licht und Schatten steuern und zugleich Ihre Privatsphäre schützen. Entdecken Sie jetzt unser vielfältiges Angebot an Stil- & Seilspanngarnituren bei Fensterversum.de."
+                    },
+                    {
+                        "title": "Lamellenvorhänge",
+                        "text": "Verleihen Sie Ihren Räumen mit unseren hochwertigen <a href=\"/kategorie/lamellenvorhaenge/\" title=\"Lamellenvorhänge\">Lamellenvorhänge</a>n eine besondere Note. Unsere Vorhänge sind in verschiedenen Größen, Farben und Designs erhältlich und können einfach montiert werden. Mit unseren Vorhängen können Sie Licht und Schatten steuern und zugleich Ihre Privatsphäre schützen. Entdecken Sie jetzt unser vielfältiges Angebot an Lamellenvorhängen bei Fensterversum.de."
+                    },
+                    {
+                        "title": "Rollos & Raffrollos",
+                        "text": "Verleihen Sie Ihren Räumen mit unseren hochwertigen <a href=\"/kategorie/rollos-&-raffrollos/\" title=\"Rollos & Raffrollos\">Rollos & Raffrollos</a> eine besondere Note. Unsere Rollos & Raffrollos sind in verschiedenen Größen, Farben und Designs erhältlich und können einfach montiert werden. Mit unseren Rollos & Raffrollos können Sie Licht und Schatten steuern und zugleich Ihre Privatsphäre schützen. Entdecken Sie jetzt unser vielfältiges Angebot an Rollos & Raffrollos bei Fensterversum.de."
+                    },
+                    {
+                        "title": "Jalousien",
+                        "text": "Verleihen Sie Ihren Räumen mit unseren hochwertigen <a href=\"/kategorie/jalousien/\" title=\"Jalousien\">Jalousien</a> eine besondere Note. Unsere Jalousien sind in verschiedenen Größen, Farben und Designs erhältlich und können einfach montiert werden. Mit unseren Jalousien können Sie Licht und Schatten steuern und zugleich Ihre Privatsphäre schützen. Entdecken Sie jetzt unser vielfältiges Angebot an Jalousien bei Fensterversum.de."
+                    },
+                    {
+                        "title": "Gardinenschienen",
+                        "text": "Verleihen Sie Ihren Räumen mit unseren hochwertigen <a href=\"/kategorie/gardinenschienen/\" title=\"Gardinenschienen\">Gardinenschienen</a> eine besondere Note. Unsere Gardinenschienen sind in verschiedenen Größen und Farben erhältlich und können einfach montiert werden. Mit unseren Gardinenschienen können Sie Ihre Gardinen stilvoll aufhängen und zugleich Ihre Privatsphäre schützen. Entdecken Sie jetzt unser vielfältiges Angebot an Gardinenschienen bei Fensterversum.de."
+                    },
+                    {
+                        "title": "Fenstervorhänge",
+                        "text": "Verleihen Sie Ihren Räumen mit unseren hochwertigen <a href=\"/kategorie/fenstervorhaenge/\" title=\"Fenstervorhänge\">Fenstervorhänge</a>n eine besondere Note. Unsere Fenstervorhänge sind in verschiedenen Größen, Farben und Designs erhältlich und können einfach montiert werden. Mit unseren Fenstervorhängen können Sie Licht und Schatten steuern und zugleich Ihre Privatsphäre schützen. Entdecken Sie jetzt unser vielfältiges Angebot an Fenstervorhängen bei Fensterversum.de."
+                    },
+                    {
+                        "title": "Vitragestangen",
+                        "text": "Verleihen Sie Ihren Räumen mit unseren hochwertigen <a href=\"/kategorie/vitragestangen/\" title=\"Vitragestangen\">Vitragestangen</a> eine besondere Note. Unsere Vitragestangen sind in verschiedenen Größen und Farben erhältlich und können einfach montiert werden. Mit unseren Vitragestangen können Sie Ihre Gardinen stilvoll aufhängen und zugleich Ihre Privatsphäre schützen. Entdecken Sie jetzt unser vielfältiges Angebot an Vitragestangen bei Fensterversum.de."
+                    },
+                    {
+                        "title": "Insektenschutzzubehör",
+                        "text": "Schützen Sie sich vor lästigen Insekten mit unserem hochwertigen <a href=\"/kategorie/insektenschutzzubehoer/\" title=\"Insektenschutzzubehör\">Insektenschutzzubehör</a>. Unser Zubehör ist in verschiedenen Größen und Farben erhältlich und bietet eine einfache Handhabung. Mit unserem Zubehör können Sie Ihren Insektenschutz noch effektiver gestalten. Entdecken Sie jetzt unser vielfältiges Angebot an Insektenschutzzubehör bei Fensterversum.de."
+                    },
+                    {
+                        "title": "Türdichtungen & Fensterdichtungen",
+                        "text": "Sichern Sie sich mit unseren hochwertigen <a href=\"/kategorie/tuerdichtungen-&-fensterdichtungen/\" title=\"Türdichtungen & Fensterdichtungen\">Türdichtungen & Fensterdichtungen</a> eine optimale Dämmung. Unsere Dichtungen sind in verschiedenen Größen und Farben erhältlich und bieten eine einfache Handhabung. Mit unseren Dichtungen können Sie Wärmeverluste vermeiden und zugleich Lärm reduzieren. Entdecken Sie jetzt unser vielfältiges Angebot an Türdichtungen & Fensterdichtungen bei Fensterversum.de."
+                    },
+                    {
+                        "title": "Fliegengitterfenster",
+                        "text": "Schützen Sie sich vor lästigen Insekten mit unseren hochwertigen <a href=\"/kategorie/fliegengitterfenster/\" title=\"Fliegengitterfenster\">Fliegengitterfenster</a>n. Unsere Fliegengitterfenster sind in verschiedenen Größen und Farben erhältlich und bieten eine einfache Handhabung. Mit unseren Fliegengitterfenstern können Sie frische Luft genießen, ohne dass Insekten eindringen. Entdecken Sie jetzt unser vielfältiges Angebot an Fliegengitterfenstern bei Fensterversum.de."
+                    },
+                    {
+                        "title": "Insektenschutznetze",
+                        "text": "Schützen Sie sich vor lästigen Insekten mit unseren hochwertigen <a href=\"/kategorie/insektenschutznetze/\" title=\"Insektenschutznetze\">Insektenschutznetze</a>n. Unsere Netze sind in verschiedenen Größen und Farben erhältlich und bieten eine einfache Handhabung. Mit unseren Netzen können Sie frische Luft genießen, ohne dass Insekten eindringen. Entdecken Sie jetzt unser vielfältiges Angebot an Insektenschutznetzen bei Fensterversum.de."
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Fenster-Shop: Alles rund ums Fenster und Zubehör",
