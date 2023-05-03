@@ -5,8 +5,8 @@
   "email": "fensterversum.de@surrealnetworks.io",
   "organization": "fensterversum.de",
   "logoText": "Fensterversum.de",
-  "title": "Zubeh\u00f6r f\u00fcr Fenster und T\u00fcren",
-  "subline": "Fensterzubeh\u00f6r - Alles, was Sie f\u00fcr Fenster und T\u00fcren ben\u00f6tigen",
+  "title": "Zubehör für Fenster und Türen",
+  "subline": "Fensterzubehör - Alles, was Sie für Fenster und Türen benötigen",
   "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
   "imageFolder": "/assets/images/images/",
   "productUrl": "/produkt/",
@@ -28,11 +28,11 @@
     "2502144"
   ],
   "featuredCategories": [
-    "Fenstervorh\u00e4nge",
+    "Fenstervorhänge",
     "Insektenschutz",
-    "Insektenschutzzubeh\u00f6r",
-    "Fenstervorh\u00e4nge",
-    "Fenstervorh\u00e4nge",
+    "Insektenschutzzubehör",
+    "Fenstervorhänge",
+    "Fenstervorhänge",
     "Insektenschutzrahmen"
   ],
   "socialMediaAccounts": [],
@@ -46,111 +46,144 @@
   "seo": {
     "htmlLang": "de",
     "mainKeyword": "Alles rund ums Fenster",
-    "featureText": "Alles rund ums Fenster ist ein Online Shop f\u00fcr Fenster und T\u00fcren. Wir bieten unseren Kunden eine gro\u00dfe Auswahl an Fenstern und T\u00fcren in verschiedenen Stilen und Ausf\u00fchrungen. Unsere Experten beraten Sie gerne bei der Auswahl der richtigen Fenster und T\u00fcren f\u00fcr Ihr Zuhause. In unserem Shop listen wir ausschlie\u00dflich Fenster und T\u00fcren von Markenherstellern.",
+    "featureText": "Alles rund ums Fenster ist ein Online Shop für Fenster und Türen. Wir bieten unseren Kunden eine große Auswahl an Fenstern und Türen in verschiedenen Stilen und Ausführungen. Unsere Experten beraten Sie gerne bei der Auswahl der richtigen Fenster und Türen für Ihr Zuhause. In unserem Shop listen wir ausschließlich Fenster und Türen von Markenherstellern.",
     "index": {
-      "title": "Zubeh\u00f6r f\u00fcr Fenster und T\u00fcren - Shop",
-      "metaDescription": "Wir haben die beste Auswahl an Zubeh\u00f6r f\u00fcr Fenstern und T\u00fcren, die es heute auf dem Markt gibt. Schauen Sie sich hier unsere breite Produktpalette an!",
+      "title": "Zubehör für Fenster und Türen - Shop",
+      "metaDescription": "Wir haben die beste Auswahl an Zubehör für Fenstern und Türen, die es heute auf dem Markt gibt. Schauen Sie sich hier unsere breite Produktpalette an!",
       "robots": "index, follow",
       "seotext": {
         "published": true,
         "content": [
           {
-            "title": "Willkommen bei Fensterversum - Ihrem Online-Shop f\u00fcr alles rund ums Fenster",
-            "text": "Herzlich willkommen bei Fensterversum, Ihrem Online-Shop f\u00fcr alles rund ums Fenster. Bei uns finden Sie eine gro\u00dfe Auswahl an Produkten f\u00fcr den Insektenschutz, Fliegengittert\u00fcren, Plissees, Stil- und Seilspanngarnituren, Lamellenvorh\u00e4nge, Rollos und Raffrollos, Jalousien, Gardinenschienen, Fenstervorh\u00e4nge, Vitragestangen, Insektenschutzzubeh\u00f6r, T\u00fcrdichtungen und Fensterdichtungen sowie Fliegengitterfenster und Insektenschutznetze.Unser Ziel ist es, Ihnen ein besseres und angenehmeres Leben in Ihren eigenen vier W\u00e4nden zu erm\u00f6glichen. Deshalb bieten wir Ihnen eine umfassende Auswahl an hochwertigen Produkten, die Ihnen dabei helfen, Insekten und unerw\u00fcnschte G\u00e4ste fernzuhalten und gleichzeitig Licht und Luft in Ihr Zuhause zu lassen.Wir bieten Ihnen eine einfache und bequeme M\u00f6glichkeit, alle Ihre Fensterbed\u00fcrfnisse online zu erf\u00fcllen. Durch unsere benutzerfreundliche Website k\u00f6nnen Sie ganz einfach Ihre gew\u00fcnschten Produkte ausw\u00e4hlen und bestellen. Wir liefern Ihnen die Produkte direkt nach Hause und garantieren Ihnen eine schnelle und zuverl\u00e4ssige Lieferung.Unser Team steht Ihnen jederzeit zur Verf\u00fcgung, um Ihnen bei Fragen oder Anliegen zu helfen. Wir legen gro\u00dfen Wert auf eine hohe Kundenzufriedenheit und tun alles, um Ihnen ein angenehmes Einkaufserlebnis zu bieten.Wir freuen uns darauf, Ihnen bei allen Ihren Fensterbed\u00fcrfnissen behilflich zu sein. St\u00f6bern Sie jetzt in unserem Online-Shop und entdecken Sie die vielf\u00e4ltigen M\u00f6glichkeiten f\u00fcr Ihr Zuhause. "
+            "title": "Willkommen bei Fensterversum - Ihrem Online-Shop für alles rund ums Fenster",
+            "text": "Herzlich willkommen bei Fensterversum, Ihrem Online-Shop für alles rund ums Fenster. Bei uns finden Sie eine große Auswahl an Produkten für den Insektenschutz, Fliegengittertüren, Plissees, Stil- und Seilspanngarnituren, Lamellenvorhänge, Rollos und Raffrollos, Jalousien, Gardinenschienen, Fenstervorhänge, Vitragestangen, Insektenschutzzubehör, Türdichtungen und Fensterdichtungen sowie Fliegengitterfenster und Insektenschutznetze.Unser Ziel ist es, Ihnen ein besseres und angenehmeres Leben in Ihren eigenen vier Wänden zu ermöglichen. Deshalb bieten wir Ihnen eine umfassende Auswahl an hochwertigen Produkten, die Ihnen dabei helfen, Insekten und unerwünschte Gäste fernzuhalten und gleichzeitig Licht und Luft in Ihr Zuhause zu lassen.Wir bieten Ihnen eine einfache und bequeme Möglichkeit, alle Ihre Fensterbedürfnisse online zu erfüllen. Durch unsere benutzerfreundliche Website können Sie ganz einfach Ihre gewünschten Produkte auswählen und bestellen. Wir liefern Ihnen die Produkte direkt nach Hause und garantieren Ihnen eine schnelle und zuverlässige Lieferung.Unser Team steht Ihnen jederzeit zur Verfügung, um Ihnen bei Fragen oder Anliegen zu helfen. Wir legen großen Wert auf eine hohe Kundenzufriedenheit und tun alles, um Ihnen ein angenehmes Einkaufserlebnis zu bieten.Wir freuen uns darauf, Ihnen bei allen Ihren Fensterbedürfnissen behilflich zu sein. Stöbern Sie jetzt in unserem Online-Shop und entdecken Sie die vielfältigen Möglichkeiten für Ihr Zuhause. "
           },
           {
             "title": "Insektenschutz",
-            "text": "Mit unseren hochwertigen <a href=\"/kategorie/insektenschutz/\" title=\"Insektenschutz\">Insektenschutz</a>-Produkten k\u00f6nnen Sie Ihr Zuhause vor l\u00e4stigen Insekten sch\u00fctzen. Ob Sie sich f\u00fcr einen Insektenschutz f\u00fcr Ihre T\u00fcr oder Fenster entscheiden, Sie k\u00f6nnen sicher sein, dass Sie eine lange Lebensdauer und eine einfache Handhabung erwarten k\u00f6nnen. Unsere Insektenschutz-Produkte sind in verschiedenen Gr\u00f6\u00dfen und Farben erh\u00e4ltlich, um jeden Bedarf und jeden Geschmack zu treffen."
+            "text": "Mit unseren hochwertigen <a href=\"/kategorie/insektenschutz/\" title=\"Insektenschutz\">Insektenschutz</a>-Produkten können Sie Ihr Zuhause vor lästigen Insekten schützen. Ob Sie sich für einen Insektenschutz für Ihre Tür oder Fenster entscheiden, Sie können sicher sein, dass Sie eine lange Lebensdauer und eine einfache Handhabung erwarten können. Unsere Insektenschutz-Produkte sind in verschiedenen Größen und Farben erhältlich, um jeden Bedarf und jeden Geschmack zu treffen."
           },
           {
-            "title": "Fliegengittert\u00fcren",
-            "text": "Sch\u00fctzen Sie Ihr Zuhause vor l\u00e4stigen Fliegen und Insekten mit unseren <a href=\"/kategorie/fliegengittertueren/\" title=\"Fliegengittert\u00fcren\">Fliegengittert\u00fcren</a>. Unsere T\u00fcren sind in verschiedenen Gr\u00f6\u00dfen und Farben erh\u00e4ltlich und bieten eine einfache Handhabung. Sie k\u00f6nnen das T\u00fcrgitter einfach \u00f6ffnen und schlie\u00dfen, wenn Sie es ben\u00f6tigen, und es wird dennoch eine effektive Barriere gegen Fliegen und Insekten bieten. Kaufen Sie jetzt Ihre Fliegengittert\u00fcr bei Fensterversum.de."
+            "title": "Fliegengittertüren",
+            "text": "Schützen Sie Ihr Zuhause vor lästigen Fliegen und Insekten mit unseren <a href=\"/kategorie/fliegengittertueren/\" title=\"Fliegengittertüren\">Fliegengittertüren</a>. Unsere Türen sind in verschiedenen Größen und Farben erhältlich und bieten eine einfache Handhabung. Sie können das Türgitter einfach öffnen und schließen, wenn Sie es benötigen, und es wird dennoch eine effektive Barriere gegen Fliegen und Insekten bieten. Kaufen Sie jetzt Ihre Fliegengittertür bei Fensterversum.de."
           },
           {
             "title": "Plissees",
-            "text": "Verleihen Sie Ihren R\u00e4umen mit unseren hochwertigen <a href=\"/kategorie/plissees/\" title=\"Plissees\">Plissees</a> eine besondere Note. Unsere Plissees sind in verschiedenen Gr\u00f6\u00dfen, Farben und Designs erh\u00e4ltlich und k\u00f6nnen einfach montiert werden. Mit unseren Plissees k\u00f6nnen Sie Licht und Schatten steuern und zugleich Ihre Privatsph\u00e4re sch\u00fctzen. Entdecken Sie jetzt unser vielf\u00e4ltiges Angebot an Plissees bei Fensterversum.de."
+            "text": "Verleihen Sie Ihren Räumen mit unseren hochwertigen <a href=\"/kategorie/plissees/\" title=\"Plissees\">Plissees</a> eine besondere Note. Unsere Plissees sind in verschiedenen Größen, Farben und Designs erhältlich und können einfach montiert werden. Mit unseren Plissees können Sie Licht und Schatten steuern und zugleich Ihre Privatsphäre schützen. Entdecken Sie jetzt unser vielfältiges Angebot an Plissees bei Fensterversum.de."
           },
           {
             "title": "Insektenschutzrahmen",
-            "text": "Sch\u00fctzen Sie sich vor l\u00e4stigen Insekten mit unseren hochwertigen <a href=\"/kategorie/insektenschutzrahmen/\" title=\"Insektenschutzrahmen\">Insektenschutzrahmen</a>. Unsere Rahmen sind in verschiedenen Gr\u00f6\u00dfen und Farben erh\u00e4ltlich und bieten eine einfache Handhabung. Sie k\u00f6nnen den Rahmen einfach an Ihr Fenster anbringen und haben sofort einen effektiven Schutz vor Insekten. Entdecken Sie jetzt unser vielf\u00e4ltiges Angebot an Insektenschutzrahmen bei Fensterversum.de."
+            "text": "Schützen Sie sich vor lästigen Insekten mit unseren hochwertigen <a href=\"/kategorie/insektenschutzrahmen/\" title=\"Insektenschutzrahmen\">Insektenschutzrahmen</a>. Unsere Rahmen sind in verschiedenen Größen und Farben erhältlich und bieten eine einfache Handhabung. Sie können den Rahmen einfach an Ihr Fenster anbringen und haben sofort einen effektiven Schutz vor Insekten. Entdecken Sie jetzt unser vielfältiges Angebot an Insektenschutzrahmen bei Fensterversum.de."
           },
           {
             "title": "Stil- & Seilspanngarnituren",
-            "text": "Verleihen Sie Ihren R\u00e4umen mit unseren hochwertigen <a href=\"/kategorie/stil-seilspanngarnituren/\" title=\"Stil- & Seilspanngarnituren\">Stil- & Seilspanngarnituren</a> eine besondere Note. Unsere Garnituren sind in verschiedenen Designs und Farben erh\u00e4ltlich und k\u00f6nnen einfach montiert werden. Mit unseren Garnituren k\u00f6nnen Sie Licht und Schatten steuern und zugleich Ihre Privatsph\u00e4re sch\u00fctzen. Entdecken Sie jetzt unser vielf\u00e4ltiges Angebot an Stil- & Seilspanngarnituren bei Fensterversum.de."
+            "text": "Verleihen Sie Ihren Räumen mit unseren hochwertigen <a href=\"/kategorie/stil-seilspanngarnituren/\" title=\"Stil- & Seilspanngarnituren\">Stil- & Seilspanngarnituren</a> eine besondere Note. Unsere Garnituren sind in verschiedenen Designs und Farben erhältlich und können einfach montiert werden. Mit unseren Garnituren können Sie Licht und Schatten steuern und zugleich Ihre Privatsphäre schützen. Entdecken Sie jetzt unser vielfältiges Angebot an Stil- & Seilspanngarnituren bei Fensterversum.de."
           },
           {
-            "title": "Lamellenvorh\u00e4nge",
-            "text": "Verleihen Sie Ihren R\u00e4umen mit unseren hochwertigen <a href=\"/kategorie/lamellenvorhaenge/\" title=\"Lamellenvorh\u00e4nge\">Lamellenvorh\u00e4nge</a>n eine besondere Note. Unsere Vorh\u00e4nge sind in verschiedenen Gr\u00f6\u00dfen, Farben und Designs erh\u00e4ltlich und k\u00f6nnen einfach montiert werden. Mit unseren Vorh\u00e4ngen k\u00f6nnen Sie Licht und Schatten steuern und zugleich Ihre Privatsph\u00e4re sch\u00fctzen. Entdecken Sie jetzt unser vielf\u00e4ltiges Angebot an Lamellenvorh\u00e4ngen bei Fensterversum.de."
+            "title": "Lamellenvorhänge",
+            "text": "Verleihen Sie Ihren Räumen mit unseren hochwertigen <a href=\"/kategorie/lamellenvorhaenge/\" title=\"Lamellenvorhänge\">Lamellenvorhänge</a>n eine besondere Note. Unsere Vorhänge sind in verschiedenen Größen, Farben und Designs erhältlich und können einfach montiert werden. Mit unseren Vorhängen können Sie Licht und Schatten steuern und zugleich Ihre Privatsphäre schützen. Entdecken Sie jetzt unser vielfältiges Angebot an Lamellenvorhängen bei Fensterversum.de."
           },
           {
             "title": "Rollos & Raffrollos",
-            "text": "Verleihen Sie Ihren R\u00e4umen mit unseren hochwertigen <a href=\"/kategorie/rollos-raffrollos/\" title=\"Rollos & Raffrollos\">Rollos & Raffrollos</a> eine besondere Note. Unsere Rollos & Raffrollos sind in verschiedenen Gr\u00f6\u00dfen, Farben und Designs erh\u00e4ltlich und k\u00f6nnen einfach montiert werden. Mit unseren Rollos & Raffrollos k\u00f6nnen Sie Licht und Schatten steuern und zugleich Ihre Privatsph\u00e4re sch\u00fctzen. Entdecken Sie jetzt unser vielf\u00e4ltiges Angebot an Rollos & Raffrollos bei Fensterversum.de."
+            "text": "Verleihen Sie Ihren Räumen mit unseren hochwertigen <a href=\"/kategorie/rollos-raffrollos/\" title=\"Rollos & Raffrollos\">Rollos & Raffrollos</a> eine besondere Note. Unsere Rollos & Raffrollos sind in verschiedenen Größen, Farben und Designs erhältlich und können einfach montiert werden. Mit unseren Rollos & Raffrollos können Sie Licht und Schatten steuern und zugleich Ihre Privatsphäre schützen. Entdecken Sie jetzt unser vielfältiges Angebot an Rollos & Raffrollos bei Fensterversum.de."
           },
           {
             "title": "Jalousien",
-            "text": "Verleihen Sie Ihren R\u00e4umen mit unseren hochwertigen <a href=\"/kategorie/jalousien/\" title=\"Jalousien\">Jalousien</a> eine besondere Note. Unsere Jalousien sind in verschiedenen Gr\u00f6\u00dfen, Farben und Designs erh\u00e4ltlich und k\u00f6nnen einfach montiert werden. Mit unseren Jalousien k\u00f6nnen Sie Licht und Schatten steuern und zugleich Ihre Privatsph\u00e4re sch\u00fctzen. Entdecken Sie jetzt unser vielf\u00e4ltiges Angebot an Jalousien bei Fensterversum.de."
+            "text": "Verleihen Sie Ihren Räumen mit unseren hochwertigen <a href=\"/kategorie/jalousien/\" title=\"Jalousien\">Jalousien</a> eine besondere Note. Unsere Jalousien sind in verschiedenen Größen, Farben und Designs erhältlich und können einfach montiert werden. Mit unseren Jalousien können Sie Licht und Schatten steuern und zugleich Ihre Privatsphäre schützen. Entdecken Sie jetzt unser vielfältiges Angebot an Jalousien bei Fensterversum.de."
           },
           {
             "title": "Gardinenschienen",
-            "text": "Verleihen Sie Ihren R\u00e4umen mit unseren hochwertigen <a href=\"/kategorie/gardinenschienen/\" title=\"Gardinenschienen\">Gardinenschienen</a> eine besondere Note. Unsere Gardinenschienen sind in verschiedenen Gr\u00f6\u00dfen und Farben erh\u00e4ltlich und k\u00f6nnen einfach montiert werden. Mit unseren Gardinenschienen k\u00f6nnen Sie Ihre Gardinen stilvoll aufh\u00e4ngen und zugleich Ihre Privatsph\u00e4re sch\u00fctzen. Entdecken Sie jetzt unser vielf\u00e4ltiges Angebot an Gardinenschienen bei Fensterversum.de."
+            "text": "Verleihen Sie Ihren Räumen mit unseren hochwertigen <a href=\"/kategorie/gardinenschienen/\" title=\"Gardinenschienen\">Gardinenschienen</a> eine besondere Note. Unsere Gardinenschienen sind in verschiedenen Größen und Farben erhältlich und können einfach montiert werden. Mit unseren Gardinenschienen können Sie Ihre Gardinen stilvoll aufhängen und zugleich Ihre Privatsphäre schützen. Entdecken Sie jetzt unser vielfältiges Angebot an Gardinenschienen bei Fensterversum.de."
           },
           {
-            "title": "Fenstervorh\u00e4nge",
-            "text": "Verleihen Sie Ihren R\u00e4umen mit unseren hochwertigen <a href=\"/kategorie/fenstervorhaenge/\" title=\"Fenstervorh\u00e4nge\">Fenstervorh\u00e4nge</a>n eine besondere Note. Unsere Fenstervorh\u00e4nge sind in verschiedenen Gr\u00f6\u00dfen, Farben und Designs erh\u00e4ltlich und k\u00f6nnen einfach montiert werden. Mit unseren Fenstervorh\u00e4ngen k\u00f6nnen Sie Licht und Schatten steuern und zugleich Ihre Privatsph\u00e4re sch\u00fctzen. Entdecken Sie jetzt unser vielf\u00e4ltiges Angebot an Fenstervorh\u00e4ngen bei Fensterversum.de."
+            "title": "Fenstervorhänge",
+            "text": "Verleihen Sie Ihren Räumen mit unseren hochwertigen <a href=\"/kategorie/fenstervorhaenge/\" title=\"Fenstervorhänge\">Fenstervorhänge</a>n eine besondere Note. Unsere Fenstervorhänge sind in verschiedenen Größen, Farben und Designs erhältlich und können einfach montiert werden. Mit unseren Fenstervorhängen können Sie Licht und Schatten steuern und zugleich Ihre Privatsphäre schützen. Entdecken Sie jetzt unser vielfältiges Angebot an Fenstervorhängen bei Fensterversum.de."
           },
           {
             "title": "Vitragestangen",
-            "text": "Verleihen Sie Ihren R\u00e4umen mit unseren hochwertigen <a href=\"/kategorie/vitragestangen/\" title=\"Vitragestangen\">Vitragestangen</a> eine besondere Note. Unsere Vitragestangen sind in verschiedenen Gr\u00f6\u00dfen und Farben erh\u00e4ltlich und k\u00f6nnen einfach montiert werden. Mit unseren Vitragestangen k\u00f6nnen Sie Ihre Gardinen stilvoll aufh\u00e4ngen und zugleich Ihre Privatsph\u00e4re sch\u00fctzen. Entdecken Sie jetzt unser vielf\u00e4ltiges Angebot an Vitragestangen bei Fensterversum.de."
+            "text": "Verleihen Sie Ihren Räumen mit unseren hochwertigen <a href=\"/kategorie/vitragestangen/\" title=\"Vitragestangen\">Vitragestangen</a> eine besondere Note. Unsere Vitragestangen sind in verschiedenen Größen und Farben erhältlich und können einfach montiert werden. Mit unseren Vitragestangen können Sie Ihre Gardinen stilvoll aufhängen und zugleich Ihre Privatsphäre schützen. Entdecken Sie jetzt unser vielfältiges Angebot an Vitragestangen bei Fensterversum.de."
           },
           {
-            "title": "Insektenschutzzubeh\u00f6r",
-            "text": "Sch\u00fctzen Sie sich vor l\u00e4stigen Insekten mit unserem hochwertigen <a href=\"/kategorie/insektenschutzzubehoer/\" title=\"Insektenschutzzubeh\u00f6r\">Insektenschutzzubeh\u00f6r</a>. Unser Zubeh\u00f6r ist in verschiedenen Gr\u00f6\u00dfen und Farben erh\u00e4ltlich und bietet eine einfache Handhabung. Mit unserem Zubeh\u00f6r k\u00f6nnen Sie Ihren Insektenschutz noch effektiver gestalten. Entdecken Sie jetzt unser vielf\u00e4ltiges Angebot an Insektenschutzzubeh\u00f6r bei Fensterversum.de."
+            "title": "Insektenschutzzubehör",
+            "text": "Schützen Sie sich vor lästigen Insekten mit unserem hochwertigen <a href=\"/kategorie/insektenschutzzubehoer/\" title=\"Insektenschutzzubehör\">Insektenschutzzubehör</a>. Unser Zubehör ist in verschiedenen Größen und Farben erhältlich und bietet eine einfache Handhabung. Mit unserem Zubehör können Sie Ihren Insektenschutz noch effektiver gestalten. Entdecken Sie jetzt unser vielfältiges Angebot an Insektenschutzzubehör bei Fensterversum.de."
           },
           {
-            "title": "T\u00fcrdichtungen & Fensterdichtungen",
-            "text": "Sichern Sie sich mit unseren hochwertigen <a href=\"/kategorie/tuerdichtungen-fensterdichtungen/\" title=\"T\u00fcrdichtungen & Fensterdichtungen\">T\u00fcrdichtungen & Fensterdichtungen</a> eine optimale D\u00e4mmung. Unsere Dichtungen sind in verschiedenen Gr\u00f6\u00dfen und Farben erh\u00e4ltlich und bieten eine einfache Handhabung. Mit unseren Dichtungen k\u00f6nnen Sie W\u00e4rmeverluste vermeiden und zugleich L\u00e4rm reduzieren. Entdecken Sie jetzt unser vielf\u00e4ltiges Angebot an T\u00fcrdichtungen & Fensterdichtungen bei Fensterversum.de."
+            "title": "Türdichtungen & Fensterdichtungen",
+            "text": "Sichern Sie sich mit unseren hochwertigen <a href=\"/kategorie/tuerdichtungen-fensterdichtungen/\" title=\"Türdichtungen & Fensterdichtungen\">Türdichtungen & Fensterdichtungen</a> eine optimale Dämmung. Unsere Dichtungen sind in verschiedenen Größen und Farben erhältlich und bieten eine einfache Handhabung. Mit unseren Dichtungen können Sie Wärmeverluste vermeiden und zugleich Lärm reduzieren. Entdecken Sie jetzt unser vielfältiges Angebot an Türdichtungen & Fensterdichtungen bei Fensterversum.de."
           },
           {
             "title": "Fliegengitterfenster",
-            "text": "Sch\u00fctzen Sie sich vor l\u00e4stigen Insekten mit unseren hochwertigen <a href=\"/kategorie/fliegengitterfenster/\" title=\"Fliegengitterfenster\">Fliegengitterfenster</a>n. Unsere Fliegengitterfenster sind in verschiedenen Gr\u00f6\u00dfen und Farben erh\u00e4ltlich und bieten eine einfache Handhabung. Mit unseren Fliegengitterfenstern k\u00f6nnen Sie frische Luft genie\u00dfen, ohne dass Insekten eindringen. Entdecken Sie jetzt unser vielf\u00e4ltiges Angebot an Fliegengitterfenstern bei Fensterversum.de."
+            "text": "Schützen Sie sich vor lästigen Insekten mit unseren hochwertigen <a href=\"/kategorie/fliegengitterfenster/\" title=\"Fliegengitterfenster\">Fliegengitterfenster</a>n. Unsere Fliegengitterfenster sind in verschiedenen Größen und Farben erhältlich und bieten eine einfache Handhabung. Mit unseren Fliegengitterfenstern können Sie frische Luft genießen, ohne dass Insekten eindringen. Entdecken Sie jetzt unser vielfältiges Angebot an Fliegengitterfenstern bei Fensterversum.de."
           },
           {
             "title": "Insektenschutznetze",
-            "text": "Sch\u00fctzen Sie sich vor l\u00e4stigen Insekten mit unseren hochwertigen <a href=\"/kategorie/insektenschutznetze/\" title=\"Insektenschutznetze\">Insektenschutznetze</a>n. Unsere Netze sind in verschiedenen Gr\u00f6\u00dfen und Farben erh\u00e4ltlich und bieten eine einfache Handhabung. Mit unseren Netzen k\u00f6nnen Sie frische Luft genie\u00dfen, ohne dass Insekten eindringen. Entdecken Sie jetzt unser vielf\u00e4ltiges Angebot an Insektenschutznetzen bei Fensterversum.de."
+            "text": "Schützen Sie sich vor lästigen Insekten mit unseren hochwertigen <a href=\"/kategorie/insektenschutznetze/\" title=\"Insektenschutznetze\">Insektenschutznetze</a>n. Unsere Netze sind in verschiedenen Größen und Farben erhältlich und bieten eine einfache Handhabung. Mit unseren Netzen können Sie frische Luft genießen, ohne dass Insekten eindringen. Entdecken Sie jetzt unser vielfältiges Angebot an Insektenschutznetzen bei Fensterversum.de."
           }
         ]
       }
     },
     "shop": {
-      "title": "Fenster-Shop: Alles rund ums Fenster und Zubeh\u00f6r",
-      "metaDescription": "Wir bieten qualitativ hochwertige Fenster-Produkte zu erschwinglichen Preisen. Schau jetzt in unserem Shop vorbei und sicher dir die g\u00fcnstigsten Preise.",
+      "title": "Fenster-Shop: Alles rund ums Fenster und Zubehör",
+      "metaDescription": "Wir bieten qualitativ hochwertige Fenster-Produkte zu erschwinglichen Preisen. Schau jetzt in unserem Shop vorbei und sicher dir die günstigsten Preise.",
       "robots": "index, follow"
     },
     "hersteller": {
       "title": "Liste aller Fenster-Hersteller und deren Produkte",
-      "metaDescription": "Sind Sie auf der Suche nach dem richtigen Fenster f\u00fcr Ihr Zuhause? Hier finden Sie eine Liste aller Hersteller und Produkten. Best-Preis-Garantie inklusive.",
+      "metaDescription": "Sind Sie auf der Suche nach dem richtigen Fenster für Ihr Zuhause? Hier finden Sie eine Liste aller Hersteller und Produkten. Best-Preis-Garantie inklusive.",
       "robots": "index, follow"
     }
   },
   "productSeo": {
     "defaultTitle": "$PRODUKT kaufen",
-    "defaultMetaDescription": "$PRODUKT von $HERSTELLER g\u00fcnstig online kaufen - und viele weitere Produkte aus der Kategorie $KATEGORIE. Und wir haben die besten Preise im Netz.",
+    "defaultMetaDescription": "$PRODUKT von $HERSTELLER günstig online kaufen - und viele weitere Produkte aus der Kategorie $KATEGORIE. Und wir haben die besten Preise im Netz.",
     "defaultRobots": "index, follow",
     "products": [
       {
         "sku": "5637909794",
         "name": "Ortovox PALA PANTS Kletterhose",
         "seo": {
-          "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
-          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+          "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
           "robots": "index, follow"
+        }
+      },
+      {
+        "sku": "1407501",
+        "seo": {
+          "texts": [
+            {
+              "title": "OBI Hitzeschutzrollo Manresa 140 cm x 175 cm Weiß",
+              "text": "<p class=\"justify\">Das OBI Hitzeschutzrollo Manresa ist ein hochwertiger Hitzeschutz, Sicht-und Sonnenschutz für Ihren Wohn- und Essbereich oder das Schlafzimmer. Das Seitenzugrollo ist in der Farbe Weiß gefertigt und besteht aus 100 % Polyester. Die Maße betragen 140 cm x 175 cm (Breite x Höhe). Es eignet sich hervorragend als dekoratives Raumelement und bietet zusätzlich eine Verdunkelungsmöglichkeit. Einfache Montage und bequeme Bedienung machen das Manresa-Rollo zu einer optimalen Fensterdekoration</p><p class=\"justify\">Eine hitzereflektierende, silberfarbene Beschichtung auf der Rückseite des Rollos ist dafür verantwortlich, dass die Sonneneinstrahlung zurückgeworfen wird und somit weniger Wärme in den Raum eindringt. Im Winter trägt diese Besonderheit dazu bei, dass weniger warme Luft über das Fenster entweicht. Das blickdichte Gewebe des OBI Hitzeschutzrollos Manresa gewährleistet zudem einen hohen Grad an Privatsphäre. Der Verdunkelungseffekt sorgt für ungestörten Schlaf und angenehme Raumtemperaturen.</p><p class=\"justify\">Die Montage des Thermostop-Rollos ist denkbar einfach: Entweder können Sie das Rollo durch Bohren an Wand oder Decke montieren oder mit den im Lieferumfang enthaltenen Easyfix-Haken am Fensterflügel bohrfrei befestigen. Das benötigte Montagematerial ist ebenfalls im Lieferumfang enthalten. Die Bedienung des OBI Hitzeschutzrollos Manresa erfolgt unkompliziert mittels eines angenehmen Seitenzugs.</p><p class=\"justify\">Die herausragenden Eigenschaften und das moderne Design des OBI Hitzeschutzrollos Manresa machen es zum idealen Begleiter für jeden Wohnraum und sorgen für eine angenehme Atmosphäre und erstklassigen Komfort. Der praktische Hitze-, Sicht- und Sonnenschutz, kombiniert mit einer einfachen Montage und Bedienung, garantieren ein rundum zufriedenstellendes Erlebnis.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "9354176",
+        "seo": {
+          "texts": [
+            {
+              "title": "Gardinia Gardinenstangen-Set Kreta Zylinder Ø 16/19 mm 120 cm - 210 cm Weiß",
+              "text": "<p class=\"justify\">Das Gardinia Gardinenstangen-Set Kreta Zylinder Ø 16/19 mm 120 cm - 210 cm Weiß ist die perfekte Ergänzung für Ihr Zuhause. Das elegante Stangen-Set ist ideal für stilvolle Fensterdekorationen und bietet eine hochwertige Lösung für die Befestigung Ihrer Gardinen oder Vorhänge. Als renommierte Marke steht Gardinia für Qualität und Design, damit Sie sich auf Langlebigkeit und ansprechende Optik verlassen können.</p><p class=\"justify\">Das Gardinenstangen-Set Kreta besteht aus robustem Metall und ist in der Länge von 120 cm bis 210 cm ausziehbar. Die zwei Metall-Endstücke in Zylinderform sorgen für einen stabilen Halt und verleihen dem Set einen edlen Look. Die drei Metall-Träger garantieren eine sichere Montage an der Wand, wobei der Wandabstand der Gardinenstange 7,5 cm beträgt. Das Befestigungsmaterial wird selbstverständlich mitgeliefert, sodass eine schnelle und einfache Montage gewährleistet ist. Bitte beachten Sie, dass Gardinenringe nicht im Lieferumfang enthalten sind.</p><p class=\"justify\">Die weiße Farbe des Gardinia Gardinenstangen-Sets Kreta Zylinder harmoniert hervorragend mit verschiedenen Einrichtungsstilen und Farbschemata, sodass es sich nahtlos in Ihre Wohnräume einfügt. Egal, ob in Küche, Wohnzimmer, Schlafzimmer oder Kinderzimmer - mit dem Gardinia Gardinenstangen-Set Kreta Zylinder schaffen Sie eine ansprechende Fenstergestaltung, die sowohl funktional als auch dekorativ ist.</p><p class=\"justify\">Setzen Sie mit dem Gardinia Gardinenstangen-Set Kreta Zylinder Ø 16/19 mm 120 cm - 210 cm Weiß Akzente in Ihrem Zuhause und verleihen Sie Ihren Fenstern eine stilvolle Note. Die praktische und attraktive Lösung für Ihre Gardinenbefestigung wird Sie nicht enttäuschen. Entscheiden Sie sich für das Gardinia Gardinenstangen-Set Kreta Zylinder und genießen Sie die Kombination aus Design, Qualität und Funktionalität.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "2502144",
+        "seo": {
+          "texts": [
+            {
+              "title": "Tesamoll Fensterdichtung / Tüdichtung P-Profile Gummidichtung Weiß 10 m",
+              "text": "<p class=\"justify\">Die Tesamoll Fensterdichtung / Tüdichtung P-Profile Gummidichtung Weiß 10 m (SKU: 2502144) ist eine hochwertige und praktische Dichtungslösung aus dem Hause Tesa. Sie sorgt dafür, dass Ihre Wohnräume vor Zugluft, Kälte und Feuchtigkeit geschützt bleiben. Diese Dichtung ist speziell für Spalten zwischen 2 und 5 mm geeignet und verhindert das Eindringen von Kälte. Bei entsprechender Spaltabdeckung können Sie mit der Tesamoll P-Profile Gummidichtung bis zu 35 % Ihrer Heizkosten einsparen.</p><p class=\"justify\">Die selbstklebende Fenster- und Tüdichtung ist leicht anzubringen und bietet eine 100 % Abdichtung. Das Hohlprofil der Gummidichtung trägt zur Effektivität bei. Die Tesamoll Dichtung ist extrem witterungsbeständig und hält Temperaturen von -30 °C bis +80 °C stand. So ist sie für jedes Wetter bestens gerüstet. Die Dichtung zeichnet sich durch ihre Langlebigkeit aus und hat eine Haltbarkeit von 8 Jahren.</p><p class=\"justify\">Passend zu Ihrer modernen Einrichtung ist die Tesamoll Fensterdichtung / Tüdichtung P-Profile Gummidichtung in der Farbe Weiß erhältlich. Die Dichtung gehört zur Kategorie \"Türdichtungen & Fensterdichtungen\" und ist mit einem Preis von 15,99€ eine lohnende Investition, die Ihnen auch bei der Energieeffizienz Ihres Zuhauses hilft.</p><p class=\"justify\">Die Tesamoll Dichtung ist nicht nur ein praktisches Utensil für den Alltag, sondern auch ein beliebtes Produkt bei den Nutzern. Mit einer Gesamtbewertung von 4 Sternen und 198 Rezensionen spricht dies für die hohe Qualität und Zufriedenheit der Kunden. Schützen Sie Ihr Zuhause vor Wärmeverlust und unangenehmer Zugluft mit der hochwertigen Tesamoll Fensterdichtung / Tüdichtung P-Profile Gummidichtung Weiß 10 m.</p>"
+            }
+          ]
         }
       }
     ]
   },
   "categorySeo": {
     "defaultTitle": "$KATEGORIE | Online Shop",
-    "defaultMetaDescription": "Suche dir jetzt die besten Produkte aus der $KATEGORIE raus und genie\u00dfe eine schnelle Lieferung. Ebenfalls haben wir die besten Preise im Netz.",
+    "defaultMetaDescription": "Suche dir jetzt die besten Produkte aus der $KATEGORIE raus und genieße eine schnelle Lieferung. Ebenfalls haben wir die besten Preise im Netz.",
     "defaultRobots": "index, follow",
     "categories": [
       {
@@ -158,8 +191,8 @@
         "slug": "sporthosen",
         "name": "Sporthosen",
         "seo": {
-          "title": "Sporthosen g\u00fcnstig kaufen",
-          "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+          "title": "Sporthosen günstig kaufen",
+          "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
           "robots": "index, follow",
           "texts": [
             {
@@ -176,16 +209,16 @@
     ]
   },
   "brandSeo": {
-    "defaultTitle": "$HERSTELLER | Produkte g\u00fcnstig online kaufen",
-    "defaultMetaDescription": "Alles rund ums Fenster: $HERSTELLER ist Ihr qualitativer Hersteller f\u00fcr Fenster, T\u00fcren und Sonnenschutz. Finden Sie das richtige Produkt zum g\u00fcnstigsten Preis.",
+    "defaultTitle": "$HERSTELLER | Produkte günstig online kaufen",
+    "defaultMetaDescription": "Alles rund ums Fenster: $HERSTELLER ist Ihr qualitativer Hersteller für Fenster, Türen und Sonnenschutz. Finden Sie das richtige Produkt zum günstigsten Preis.",
     "defaultRobots": "index, follow",
     "brands": [
       {
         "key": "palm",
         "name": "Palm",
         "seo": {
-          "title": "Produkte von Palm g\u00fcnstig kaufen",
-          "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+          "title": "Produkte von Palm günstig kaufen",
+          "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
           "robots": "index, follow"
         }
       }
